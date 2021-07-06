@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to Text-Classification-Module 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-Python 3.6. 9-blue.svg?cacheSeconds=2592000" />
-  <a href="https://docs.google.com/presentation/d/1uDSk8g0IgVKgZhRBbPFNj5wgjxZla_eH/edit#slide=id.gdfb5491ecf_0_203" target="_blank">
+  <a href="https://isurie.github.io/page1.html#header15-2z" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
   <a href="https://twitter.com/Isuriek" target="_blank">
