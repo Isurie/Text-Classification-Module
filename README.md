@@ -42,12 +42,10 @@ To run this python code, from inside the Code folder run below code using termin
 Give a ⭐️ if this project helped you!
 
 ##
-![Screenshot (314)](https://user-images.githubusercontent.com/36602031/125170049-af8f9c80-e1ca-11eb-8855-033866bb8837.png)
-##
-![Screenshot (315)](https://user-images.githubusercontent.com/36602031/125170061-b8806e00-e1ca-11eb-96fb-8197ede3d6a2.png)
-##
-![Screenshot (316)](https://user-images.githubusercontent.com/36602031/125170071-c0401280-e1ca-11eb-987e-238dbcae3ba2.png)
-##
-![Screenshot (305)](https://user-images.githubusercontent.com/36602031/125170088-cf26c500-e1ca-11eb-9dd7-408f4ddfb5eb.png)
+<img src="https://user-images.githubusercontent.com/36602031/125170049-af8f9c80-e1ca-11eb-8855-033866bb8837.png" width="500" />
+<img src="https://user-images.githubusercontent.com/36602031/125170061-b8806e00-e1ca-11eb-96fb-8197ede3d6a2.png" width="500" />
+<img src="https://user-images.githubusercontent.com/36602031/125170071-c0401280-e1ca-11eb-987e-238dbcae3ba2.png" width="700" />
+<img src="https://user-images.githubusercontent.com/36602031/125170088-cf26c500-e1ca-11eb-9dd7-408f4ddfb5eb.png" width="700" />
+
 
 
